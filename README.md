@@ -1,10 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gautam%20Prasad%20Upadhyay&fontSize=42&fontAlignY=30&desc=Full%20Stack%20Developer%20|%20AI%2FML%20Engineer%20|%20Problem%20Solver&descSize=18&descAlignY=51&animation=twinkling" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Building+Intelligent+Solutions+%F0%9F%9A%80;AI%2FML+Enthusiast+%7C+DevOps+Learner+%F0%9F%A7%A0;Passionate+About+Scalable+Apps+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
-
-</div>
 
 <img align="right" alt="Coding" width="425" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
