@@ -1,3 +1,6 @@
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+AI%2FML+Engineer;Aspiring+Software+Engineer+%7C+Problem+Solver" alt="Typing SVG" />
+</h3>
 
 <img align="right" alt="Coding" width="425" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
