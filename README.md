@@ -142,4 +142,4 @@ const gautam = {
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Do%20what%20you%20have%20to%20do%20because%20action%20is%20better%20than%20inaction.&author=Gautam%20Prasad%20Upadhyay" alt="Dev Quote"/>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
